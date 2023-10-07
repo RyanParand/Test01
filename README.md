@@ -39,7 +39,7 @@ This README file walks you through creating a GitHub repository from scratch wit
   cd Test01
   ```
 
-- This is your Test01 repository with a README file<br>
+- This is your Test01 repository with a README file <br>
 
 3. ### **Update README file & update Remote GitHub repository**
 
