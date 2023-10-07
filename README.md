@@ -1,10 +1,13 @@
 # Into to git and GitHub
 
-This README file walks you through creating a GitHub repository from scratch with git Version Control System (VCS).
+This README file walks you through
+
+- Creating a GitHub repository from scratch
+- Use git Version Control System (VCS) to interactg with GitHub remote repository
 
 ## Create a new Repository
 
-1. ### **Log in to your GitHub account**
+1. ## **Log in to your GitHub account**
 
 - [GitHub Login](https://github.com/login)
 
@@ -17,7 +20,7 @@ This README file walks you through creating a GitHub repository from scratch wit
 - Add a README file
 - Create repository <br>
 
-### 2. **Clone remote repo to local working directory**
+## 2. **Clone remote repo to local working directory**
 
 - Open command prompt on Windows
 
@@ -48,7 +51,7 @@ This README file walks you through creating a GitHub repository from scratch wit
 
 - This is your Test01 repository with a README file <br>
 
-3. ### **Update README file & update Remote GitHub repository**
+3. ## **Update README file & update Remote GitHub repository**
 
 - Open README file and update the content of the README.md file and save the file
   ```
@@ -63,8 +66,9 @@ This README file walks you through creating a GitHub repository from scratch wit
   git commit -m "README file updated" // -m for the commit message
   ```
 - Finaly **push** your work to the **Remote Repository**
+
   ```
   git push
   ```
 
-:smile: :+1:
+  :smile: :+1:
