@@ -60,26 +60,26 @@ This README file walks you through
 
 1. Open README file and update the content of the README.md file and save the file
 
-```
-README.md
-```
+   ```
+   README.md
+   ```
 
 2. From Workspace (working directory) **add** your work to the **Stagin Area**
 
-```
-git add . // add . to stage all changes
-```
+   ```
+   git add . // add . to stage all changes
+   ```
 
 3. **Commit** your work with a message to the **Local Repository**
 
-```
-git commit -m "README file updated" // -m for the commit message
-```
+   ```
+   git commit -m "README file updated" // -m for the commit message
+   ```
 
 4. Finaly **push** your work to the **Remote Repository**
 
-```
-git push
-```
+   ```
+   git push
+   ```
 
-:smile: :+1:
+   :smile: :+1:
