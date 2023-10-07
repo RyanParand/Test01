@@ -40,7 +40,7 @@ This README file walks you through
    git --version
    ```
 
-   - If not, then [Download](https://git-scm.com/downloads) git VCS if you don't have git in your system
+   - If not, then [Download](https://git-scm.com/downloads) git VCS
 
 5. Clone the **tes01** repo we created at the beginning
 
@@ -56,9 +56,9 @@ This README file walks you through
 
    **NOTE: This is Test01 repository with a README file** <br><br>
 
-## **Update README file & update Remote GitHub repository**
+## **Update README file & Remote GitHub repository**
 
-1. Open README file and update the content of the README.md file and save the file
+1. Open README file; update it; save it
 
    ```
    README.md
@@ -73,7 +73,7 @@ This README file walks you through
 3. **Commit** your work with a message to the **Local Repository**
 
    ```
-   git commit -m "README file updated"      // -m for the commit message
+   git commit -m "README file updated"      // -m for commit message
    ```
 
 4. Finaly **push** your work to the **Remote Repository**
