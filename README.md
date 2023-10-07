@@ -24,35 +24,35 @@ This README file walks you through
 
 2. Create a new directory called **repo-test**
 
-```
-mkdir repo-test
-```
+   ```
+   mkdir repo-test
+   ```
 
 3. Change directory to repo-test
 
-```
-cd repo-test
-```
+   ```
+   cd repo-test
+   ```
 
 4. Check if you have git with your command prompt:
 
-```
-git --version
-```
+   ```
+   git --version
+   ```
 
 - If not, then [Download](https://git-scm.com/downloads) git VCS if you don't have git in your system
 
 5. Clone the **tes01** repo we created at the beginning
 
-```
-git clone https://github.com/<GitHubUserName>/Test01.git
-```
+   ```
+   git clone https://github.com/<GitHubUserName>/Test01.git
+   ```
 
 6. Navigate to Test01 repo
 
-```
-cd Test01
-```
+   ```
+   cd Test01
+   ```
 
 **This is your Test01 repository with a README file** <br>
 
