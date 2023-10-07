@@ -22,12 +22,10 @@ _italic text_
 hyperlink:
 [GitHub](https://github.com)
 
-<pre>
-```python
+```
 def hello_world():
     print("Hello, world!")
 ```
-</pre>
 
 ```python
 print("`inline code` inside a code block")
