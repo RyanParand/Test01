@@ -1,7 +1,6 @@
 # Test01
 
-this is test01 to learn git and github.<br>\
-<br>
+this is test01 to learn git and github.<br>
 This is HP
 
 # Header 1
