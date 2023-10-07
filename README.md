@@ -29,6 +29,13 @@ This README file walks you through creating a GitHub repository from scratch wit
   ```
   cd repo-test
   ```
+- [Download](https://git-scm.com/downloads) git VCS if you don't have git in your system
+
+  - check if you have git with your command prompt:
+    ```
+    git --version
+    ```
+
 - Clone the **tes01** repo we created at the beginning
   ```
   git clone https://github.com/<GitHubUserName>/Test01.git
