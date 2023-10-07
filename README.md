@@ -16,8 +16,8 @@ This README file walks you through creating a GitHub repository from scratch wit
 - private or public
 - Add a README file
 - Create repository
+  <br>
 
-<br>
 ### 2. **Clone remote repo to local working directory**
 
 - Open command prompt on Windows
@@ -41,8 +41,8 @@ This README file walks you through creating a GitHub repository from scratch wit
   ```
 
 - This is your Test01 repository with a README file
+  <br>
 
-<br>
 3. ### **Update README file & update Remote GitHub repository**
 
 - Open README file and update the content of the README.md file and save the file
