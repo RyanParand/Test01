@@ -1,50 +1,64 @@
-# Test01
+# Into to git and GitHub
 
-this is test01 to learn git and github.<br>
-This is HP
+This README file walks you through creating a GitHub repository from scratch with git Version Control System (VCS).
 
-# Header 1
+## Windows
 
-## Header 2
+### Create a new Repository
 
-### Header 3
+1. **Log in to your GitHub account**
 
-**bold text**
+- [GitHub](https://github.com/login)
 
-_italic text_
+- Click on "New" to create a new repository
 
-~~strikethrough~~
+  - You can also navigate to "Your repositories" under your avatar icon (top right) to create a new repo
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-- Item 3
+- Choose a Repository name Test01
+- private or public
+- Add a README file
+- Create repository
 
-hyperlink:
-[GitHub](https://github.com)
+2. **Clone remote repo to local working directory**
 
-```
-def hello_world():
-    print("Hello, world!")
-```
+- Open command prompt on Windows
 
-```python
-print("`inline code` inside a code block")
-```
+- Create a new directory called **repo-test**
+  '''
+  mkdir repo-test
+  '''
+- Change directory to repo-test
+  '''
+  cd repo-test
+  ...
+- Clone the **tes01** repo we created at the beginning
+  '''
+  git clone https://github.com/<GitHubUserName>/Test01.git
+  '''
+- Navigate to Test01 repo
+  '''
+  cd Test01
+  '''
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Cell 1   | Cell 2   |
+- This is your Test01 repository with a README file
 
-- [x] Task 1
-- [ ] Task 2
+3. **Update README file & update Remote GitHub repository**
 
-> Quote level 1
->
-> > Quote level 2
-
-\*Escaped asterisks\*
+- Open README file and update the content of the README.md file and save the file
+  '''
+  README.md
+  '''
+- From Workspace (working directory) **add** your work to the **Stagin Area**
+  '''
+  git add . // add . to stage all changes
+  '''
+- **Commit** your work with a message to the **Local Repository**
+  '''
+  git commit -m "README file updated" // -m for the commit message
+  '''
+- Finaly **push** your work to the **Remote Repository**
+  '''
+  git push
+  '''
 
 :smile: :+1:
-
