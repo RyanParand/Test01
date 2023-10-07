@@ -65,18 +65,21 @@ This README file walks you through
    ```
 
 2. From Workspace (working directory) **add** your work to the **Stagin Area**
-<pre>
-git add .                           // add . to stage all changes
-</pre>
+
+   ```
+   git add .                             // add . to stage all changes
+   ```
 
 3. **Commit** your work with a message to the **Local Repository**
-<pre>
-git commit -m "README file updated" // -m for the commit message
-</pre>
+
+   ```
+   git commit -m "README file updated"   // -m for the commit message
+   ```
 
 4. Finaly **push** your work to the **Remote Repository**
-<pre>
-git push
-</pre>
 
-:smile: :+1:
+   ```
+   git push
+   ```
+
+   :smile: :+1:
