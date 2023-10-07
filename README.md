@@ -1,6 +1,7 @@
 # Test01
 
 this is test01 to learn git and github
+
 This is HP
 
 # Header 1
@@ -10,7 +11,9 @@ This is HP
 ### Header 3
 
 **bold text**
+
 _italic text_
+
 ~~strikethrough~~
 
 - Item 1
