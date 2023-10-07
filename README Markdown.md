@@ -47,4 +47,3 @@ print("`inline code` inside a code block")
 \*Escaped asterisks\*
 
 :smile: :+1:
-
