@@ -54,7 +54,7 @@ This README file walks you through
    cd Test01
    ```
 
-**This is your Test01 repository with a README file** <br>
+   **NOTE: This is Test01 repository with a README file** <br><br>
 
 ## **Update README file & update Remote GitHub repository**
 
