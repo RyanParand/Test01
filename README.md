@@ -83,3 +83,9 @@ This README file walks you through
    ```
 
    :smile: :+1:
+
+<pre>
+<span style="color: green;">// Comment 1</span>     `inline_code_1`
+<span style="color: green;">// Comment 2</span>     `code_2`
+<span style="color: green;">// Another Comment</span> `code_3`
+</pre>
