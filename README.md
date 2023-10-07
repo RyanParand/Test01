@@ -40,7 +40,7 @@ This README file walks you through
    git --version
    ```
 
-- If not, then [Download](https://git-scm.com/downloads) git VCS if you don't have git in your system
+   - If not, then [Download](https://git-scm.com/downloads) git VCS if you don't have git in your system
 
 5. Clone the **tes01** repo we created at the beginning
 
