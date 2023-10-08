@@ -13,10 +13,10 @@ This README file walks you through
 
    - You can also navigate to "Your repositories" under your avatar icon (top right) to create a new repo
 
-3. 2a. Choose a Repository name: Test01
-4. 2b. Make your repo private or public
-5. 2c. Add a README file
-6. 2d. Create repository <br>
+2a. Choose a Repository name: Test01
+2b. Make your repo private or public
+2c. Add a README file
+2d. Create repository <br>
 
 ## **Clone remote repo to local working directory**
 
