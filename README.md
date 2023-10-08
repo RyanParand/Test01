@@ -14,8 +14,11 @@ This README file walks you through
    - You can also navigate to "Your repositories" under your avatar icon (top right) to create a new repo
 
 2a. Choose a Repository name: Test01
+
 2b. Make your repo private or public
+
 2c. Add a README file
+
 2d. Create repository <br>
 
 ## **Clone remote repo to local working directory**
@@ -67,13 +70,13 @@ This README file walks you through
 2. From Workspace (working directory) **add** your work to the **Stagin Area**
 
    ```
-   git add .                                // add . to stage all changes
+   git add .
    ```
 
 3. **Commit** your work with a message to the **Local Repository**
 
    ```
-   git commit -m "README file updated"      // -m for commit message
+   git commit -m "README file updated"
    ```
 
 4. Finaly **push** your work to the **Remote Repository**
