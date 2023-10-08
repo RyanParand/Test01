@@ -20,8 +20,7 @@ This README file walks you through
 
 ## **Clone remote repo to local working directory**
 
-1. Open command prompt on Windows
-
+1. Open command prompt on Windows<br>
 2. Create a new directory called **repo-test**
 
    ```
