@@ -11,12 +11,12 @@ This README file walks you through
 
 2. Click on [New](https://github.com/new) to create a new repository
 
-- You can also navigate to "Your repositories" under your avatar icon (top right) to create a new repo
+   - You can also navigate to "Your repositories" under your avatar icon (top right) to create a new repo
 
-1. 2a. Choose a Repository name: Test01
-2. 2b. Make your repo private or public
-3. 2c. Add a README file
-4. 2d. Create repository <br>
+3. 2a. Choose a Repository name: Test01
+4. 2b. Make your repo private or public
+5. 2c. Add a README file
+6. 2d. Create repository <br>
 
 ## **Clone remote repo to local working directory**
 
